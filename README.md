@@ -49,7 +49,7 @@ You can view the project layout through [this link](https://www.figma.com/file/t
 - Clone the repository
 - Install de dependencies with `yarn`
 - Run the application with `yarn dev`
-- Access [`localhost:3000`](http://localhost:3000) in your browser
+- Access [`localhost:8080`](http://localhost:8080) in your browser
 
 ## 📄 Licence
 
